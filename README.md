@@ -7,3 +7,7 @@
 3. Add baseline: pure regression model
 4. Add glove embedding 
 5. Better testing: No paddings for con_mat generation
+6. Make it a regression task: output_dim = 1 => easier model
+7. Softmax/sigmoid: would a linear activation function better in this case?
+8. Remove dependent of length in forward function. (also be ware of zero pading)
+9. More training examples help?
