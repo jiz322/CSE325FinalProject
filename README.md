@@ -1,4 +1,4 @@
-# CSE325FinalProject
+This is the final project for CSE3/425 at Lehigh University
 
 ## results folder
 There are pt files, the saved state of NN for models trained with balanced data. The correspondant can be found in deep_models_for_final_evalution folder.
