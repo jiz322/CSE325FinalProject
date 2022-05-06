@@ -1,0 +1,1 @@
+The BERT state cannot uploaded to GitHub since it is 453.2Mb.
