@@ -4,7 +4,7 @@ This is the final project for CSE3/425 at Lehigh University
 Classify Amazon Review text data into 5 categories. From 1-star to 5-star.
 
 ## Methodology
-For the same task, many DL and Non-DL models are implemented, including RNN, Naive Bayes, and fining tuning BERT. \
+For the same task, DL and Non-DL models are implemented, including RNN, Naive Bayes, and fining tuning BERT. \
 Details see product-review-sentiment-analysis.pdf 
 
 ## The Results Folder
