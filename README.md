@@ -8,5 +8,5 @@ For the same task, DL and Non-DL models are implemented, including RNN, Naive Ba
 Details see product-review-sentiment-analysis.pdf 
 
 ## The Results Folder
-There are pt files, the saved state of NN for models trained with balanced data. The correspondant can be found in deep_models_for_final_evalution folder.
+There are pt files in this folder, the saved states of models. The models are ipynb files in deep_models_for_final_evalution folder. \
 There is also a pkl file of the weights yeild by apr16th's regression. 
