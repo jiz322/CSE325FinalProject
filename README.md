@@ -1,7 +1,7 @@
 This is the final project for CSE3/425 at Lehigh University
 
 ## Task
-Classify Amazon Review text into 5 categories. From 1-star to 5-star.
+Classify Amazon Review text data into 5 categories. From 1-star to 5-star.
 
 ## Methodology
 For the same task, many DL and Non-DL models are implemented, including RNN, Naive Bayes, and fining tuning BERT. \
